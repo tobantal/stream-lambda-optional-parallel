@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/da/lambdas/ComparatorLambda.java" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a265589-bb70-451e-9a12-f954098ca50e" name="Default Changelist" comment="" />
+    <list default="true" id="4a265589-bb70-451e-9a12-f954098ca50e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -97,8 +101,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="306">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +153,9 @@
       <find>predi</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -162,15 +172,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BiConsumerExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateStudentExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="231" />
-    <option name="y" value="142" />
+    <option name="x" value="223" />
+    <option name="y" value="99" />
     <option name="width" value="1360" />
     <option name="height" value="814" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,7 +241,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543396117010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543397289777" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -250,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PredicateStudentExample">
+  <component name="RunManager" selected="Application.PredicateAndConsumerExample">
     <configuration name="BiConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.da.functionalInterfaces.BiConsumerExample" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
@@ -264,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparatorLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.lambdas.ComparatorLambda" />
+    <configuration name="ComsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.functionalInterfaces.ComsumerExample" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.lambdas.*" />
+          <option name="PATTERN" value="com.da.functionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,8 +289,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.functionalInterfaces.ComsumerExample" />
+    <configuration name="PredicateAndConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.functionalInterfaces.PredicateAndConsumerExample" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
@@ -318,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateAndConsumerExample" />
         <item itemvalue="Application.PredicateStudentExample" />
         <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.BiConsumerExample" />
         <item itemvalue="Application.ComsumerExample" />
-        <item itemvalue="Application.ComparatorLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -336,15 +348,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543374765884</updated>
-      <workItem from="1543374772405" duration="14519000" />
+      <workItem from="1543374772405" duration="15687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14519000" />
+    <option name="totallyTimeSpent" value="15687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="231" y="142" width="1360" height="814" extended-state="0" />
+    <frame x="236" y="99" width="1360" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -352,10 +364,10 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23846154" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23846154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32892805" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -364,7 +376,7 @@
       <window_info anchor="bottom" id="Reviews" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2754591" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4287812" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4287812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,8 +569,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
