@@ -11,8 +11,8 @@ import java.util.function.Predicate;
 
 public class PredicateAndConsumerExample {
 
-    //private static final Predicate<Student> p1 = s -> s.getGradeLevel()>=3;
-    //private static final Predicate<Student> p2 = s -> s.getGpa()>=3.9;
+    private static final Predicate<Student> p1 = s -> s.getGradeLevel()>=3;
+    private static final Predicate<Student> p2 = s -> s.getGpa()>=3.9;
 
     private static final BiPredicate<Integer, Double> biPredicate = (gradeLevel, gpa) -> gradeLevel>=3 && gpa>=3.9;
 
@@ -25,9 +25,7 @@ public class PredicateAndConsumerExample {
             biConsumer.accept(student.getName(), student.getActivities());
         }
         /*
-        if(p1.and(p2).test(student)) {
-            biConsumer.accept(student.getName(), student.getActivities());
-        }
+
         */
     };
 
@@ -40,5 +38,11 @@ public class PredicateAndConsumerExample {
     public static void main(String[] args) {
         printNameAndActivities();
 
+        /*
+        Student student = null;
+        if(p1.and(p2).test(student)) {
+            biConsumer.accept(student.getName(), student.getActivities());
+        }
+        */
     }
 }
