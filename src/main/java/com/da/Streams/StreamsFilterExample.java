@@ -11,6 +11,7 @@ public class StreamsFilterExample {
     static List<Student> filterStudent() {
         return StudentDataBase.getAllStudents().stream()
                 .filter(student -> student.getGender().equals("female"))
+                .filter(student -> student.getGpa()>=3.7)
                 .collect(Collectors.toList());
     }
 
