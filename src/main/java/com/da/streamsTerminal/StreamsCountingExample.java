@@ -1,9 +1,6 @@
 package com.da.streamsTerminal;
 
-import com.da.data.Student;
 import com.da.data.StudentDataBase;
-
-import java.util.stream.Collectors;
 
 public class StreamsCountingExample {
 
