@@ -20,10 +20,16 @@ public class OptionalOrElseExample {
         //studentOptional = Optional.empty();
         return studentOptional.map(Student::getName).orElseGet(()->"Default");
     }
+    
+    public static String optionalOrElseThrow() {
+        Optional<Student> studentOptional = Optional.ofNullable(StudentDataBase.studentSupplier.get());
+        studentOptional = Optional.empty();
+        return studentOptional.map(Student::getName).orElseThrow(()->new IllegalArgumentException());
+    }
 
     public static void main(String[] args) {
-
         System.out.println(optionalOrElse());
         System.out.println(optionalOrElseGet());
+        System.out.println(optionalOrElseThrow());
     }
 }
