@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a265589-bb70-451e-9a12-f954098ca50e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/optional/OptionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOfEmptyNullableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOrElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Client123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultMethodsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/streamsTerminal/StreamsCountingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/streamsTerminal/StreamsCountingExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/streamsTerminal/StreamsMappingExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/streamsTerminal/StreamsMappingExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/data/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/data/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/data/StudentDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/data/StudentDataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/optional/OptionalOrElseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/optional/OptionalOrElseExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/defaults/DefaultsMethodsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultsMethodsExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,45 +57,82 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1049#1050#0" expanded="true" />
-                <element signature="e#1099#1100#0" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOrElseExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOfEmptyNullableExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
               <folding>
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#115#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#77#78#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,6 +143,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -112,19 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/IntStreamExampleSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/IntStreamSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/lambdas/RunnableLambda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/lambdas/ComparatorLambda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/lambdas/RunnableLambda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/ComsumerExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BiConsumerExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateStudentExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/FunctionExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/FucntionStudentExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BiFunctionExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/UnaryOperatorExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BinaryOperatorExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/SupplierExample.java" />
@@ -143,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/StreamsFilterExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/StreamsReduceExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/data/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/StreamMapReducePattern.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/StreamsLimitSkipExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/Streams/StreamsMinMaxExample.java" />
@@ -163,6 +198,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/da/codograms/Filter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOfEmptyNullableExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOrElseExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/defaults/DefaultsMethodsExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultsMethodsExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultMethodsExample2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Client123.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java" />
       </list>
     </option>
   </component>
@@ -173,10 +222,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="206" />
-    <option name="y" value="124" />
+    <option name="x" value="178" />
+    <option name="y" value="139" />
     <option name="width" value="1433" />
-    <option name="height" value="820" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -184,6 +233,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -225,19 +275,18 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="da" type="462c0819:PsiDirectoryNode" />
-              <item name="optional" type="462c0819:PsiDirectoryNode" />
+              <item name="defaults" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543917389794" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544002769172" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -248,7 +297,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.da.defaults" />
       <recent name="com.da.Streams" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.da.defaults" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,13 +316,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptionalOrElseExample">
-    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.codograms.Filter" />
+  <component name="RunManager" selected="Application.Client14">
+    <configuration name="Client123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.defaults.Client123" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.codograms.*" />
+          <option name="PATTERN" value="com.da.defaults.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.optional.OptionalExample" />
+    <configuration name="Client14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.defaults.Client14" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.optional.*" />
+          <option name="PATTERN" value="com.da.defaults.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalOfEmptyNullableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.optional.OptionalOfEmptyNullableExample" />
+    <configuration name="DefaultMethodsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.defaults.DefaultMethodsExample2" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.optional.*" />
+          <option name="PATTERN" value="com.da.defaults.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalOrElseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.optional.OptionalOrElseExample" />
+    <configuration name="DefaultsMethodsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.defaults.DefaultsMethodsExample" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.optional.*" />
+          <option name="PATTERN" value="com.da.defaults.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsMappingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.streamsTerminal.StreamsMappingExample" />
+    <configuration name="MultiplierClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.defaults.MultiplierClient" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.streamsTerminal.*" />
+          <option name="PATTERN" value="com.da.defaults.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OptionalOrElseExample" />
-        <item itemvalue="Application.OptionalOfEmptyNullableExample" />
-        <item itemvalue="Application.Filter" />
-        <item itemvalue="Application.OptionalExample" />
-        <item itemvalue="Application.StreamsMappingExample" />
+        <item itemvalue="Application.Client14" />
+        <item itemvalue="Application.Client123" />
+        <item itemvalue="Application.MultiplierClient" />
+        <item itemvalue="Application.DefaultMethodsExample2" />
+        <item itemvalue="Application.DefaultsMethodsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -355,11 +408,13 @@
       <workItem from="1543550446611" duration="16976000" />
       <workItem from="1543800078973" duration="15184000" />
       <workItem from="1543885416809" duration="8569000" />
+      <workItem from="1543971364131" duration="615000" />
+      <workItem from="1543997340618" duration="5416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74464000" />
+    <option name="totallyTimeSpent" value="80495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,10 +426,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="206" y="124" width="1433" height="820" extended-state="1" />
+    <frame x="163" y="202" width="1433" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24180627" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27312455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,13 +438,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2754591" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37845707" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3973799" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43226787" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3973799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
       <window_info anchor="bottom" id="Build" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33381924" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33333334" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
@@ -452,110 +507,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/FunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/BiPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="65" column="38" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/BiConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BiConsumerExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateAndConsumerExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/FunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/UnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BiFunctionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="72" lean-forward="true" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/FucntionStudentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BinaryOperatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/PredicateStudentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/UnaryOperatorExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -672,13 +623,6 @@
             <element signature="e#457#458#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="31" column="125" selection-start-line="31" selection-start-column="125" selection-end-line="31" selection-end-column="125" />
         </state>
       </provider>
     </entry>
@@ -897,40 +841,166 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOfEmptyNullableExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="240">
           <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding>
             <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1049#1050#0" expanded="true" />
-            <element signature="e#1099#1100#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalOrElseExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="323">
           <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/optional/OptionalExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="41" column="106" selection-start-line="41" selection-start-column="106" selection-end-line="41" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultsMethodsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultMethodsExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Client123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
