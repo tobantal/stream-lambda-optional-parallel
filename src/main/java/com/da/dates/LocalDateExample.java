@@ -51,5 +51,14 @@ public class LocalDateExample {
         System.out.println("localDate.isLeapYear() : " + localDate.isLeapYear());
         System.out.println("LocalDate.ofYearDay(2020,1).isLeapYear() : " + LocalDate.ofYearDay(2020,1).isLeapYear());
         System.out.println("localDate.minusYears(2).isLeapYear() : " + localDate.minusYears(2).isLeapYear());
+        
+        LocalDate localDate1 = LocalDate.now().plus(1, ChronoUnit.DAYS);
+        System.out.println("localDate.equals(localdate1): " + localDate.equals(localDate1));     
+        System.out.printf("%s.isBefore(%s): %s\n",localDate, localDate1, localDate.isBefore(localDate1));
+        System.out.printf("%s.isAfter(%s): %s\n",localDate, localDate1, localDate.isAfter(localDate1));
+        
+        System.out.println("localDate.isSupported(ChronoUnit.MINUTES): "
+        + localDate.isSupported(ChronoUnit.MINUTES));
+        
     }
 }
