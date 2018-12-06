@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a265589-bb70-451e-9a12-f954098ca50e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Client123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultMethodsExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/dates/LocalDateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/dates/NewDateTimeExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/data/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/data/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/data/StudentDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/data/StudentDataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/da/optional/OptionalOrElseExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/da/optional/OptionalOrElseExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/da/data/StudentDataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/defaults/DefaultsMethodsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/da/defaults/DefaultsMethodsExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -60,11 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding>
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-              </folding>
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -72,12 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#79#80#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="6" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -85,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="6" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
                 <element signature="e#157#158#0" expanded="true" />
@@ -95,11 +73,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/NewDateTimeExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/LocalDateExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,11 +109,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
                 <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
+              <caret line="12" column="58" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -129,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            <state relative-caret-position="170">
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/UnaryOperatorExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/BinaryOperatorExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/SupplierExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/methodreference/FunctionMethodReferenceExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/ConsumerMethodReferenceExample.java" />
@@ -212,6 +212,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/dates/NewDateTimeExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/da/dates/LocalDateExample.java" />
       </list>
     </option>
   </component>
@@ -221,9 +223,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
-    <option name="y" value="139" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="175" />
+    <option name="y" value="151" />
     <option name="width" value="1433" />
     <option name="height" value="790" />
   </component>
@@ -233,8 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,18 +275,20 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="da" type="462c0819:PsiDirectoryNode" />
-              <item name="defaults" type="462c0819:PsiDirectoryNode" />
+              <item name="dates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544002769172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544088966032" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -316,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client14">
+  <component name="RunManager" selected="Application.LocalDateExample">
     <configuration name="Client123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.da.defaults.Client123" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
@@ -343,25 +345,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultMethodsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.defaults.DefaultMethodsExample2" />
+    <configuration name="LocalDateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.dates.LocalDateExample" />
       <module name="com.da.stream-lambda-optional-parallel.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.da.defaults.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DefaultsMethodsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.da.defaults.DefaultsMethodsExample" />
-      <module name="com.da.stream-lambda-optional-parallel.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.da.defaults.*" />
+          <option name="PATTERN" value="com.da.dates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,13 +371,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewDateTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.da.dates.NewDateTimeExample" />
+      <module name="com.da.stream-lambda-optional-parallel.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.da.dates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalDateExample" />
+        <item itemvalue="Application.NewDateTimeExample" />
         <item itemvalue="Application.Client14" />
         <item itemvalue="Application.Client123" />
         <item itemvalue="Application.MultiplierClient" />
-        <item itemvalue="Application.DefaultMethodsExample2" />
-        <item itemvalue="Application.DefaultsMethodsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -409,12 +411,13 @@
       <workItem from="1543800078973" duration="15184000" />
       <workItem from="1543885416809" duration="8569000" />
       <workItem from="1543971364131" duration="615000" />
-      <workItem from="1543997340618" duration="5416000" />
+      <workItem from="1543997340618" duration="6205000" />
+      <workItem from="1544060363923" duration="4414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80495000" />
+    <option name="totallyTimeSpent" value="85698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,10 +429,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="202" width="1433" height="790" extended-state="0" />
+    <frame x="175" y="151" width="1433" height="790" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27312455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27749455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -507,24 +510,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/functionalInterfaces/UnaryOperatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/methodreference/RefactorMethodReferenceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/methodreference/ConsumerMethodReferenceExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -901,34 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -964,21 +921,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Multiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#79#80#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Interface4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="6" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#157#158#0" expanded="true" />
@@ -988,11 +948,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Abstract1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
             <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/MultiplierClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1000,7 +977,27 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/defaults/Client14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/NewDateTimeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/LocalDateExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
