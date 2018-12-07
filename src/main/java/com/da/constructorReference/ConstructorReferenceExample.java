@@ -3,8 +3,6 @@ package com.da.constructorReference;
 import java.util.function.Function;
 import java.util.function.Supplier;
 import com.da.data.Student;
-import com.da.functionalInterfaces.PredicateStudentExample;
-
 
 public class ConstructorReferenceExample {
 

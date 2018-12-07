@@ -1,6 +1,5 @@
 package com.da.methodreference;
 
-import java.util.function.Function;
 import java.util.function.UnaryOperator;
 
 public class FunctionMethodReferenceExample {

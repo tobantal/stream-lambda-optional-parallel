@@ -24,9 +24,7 @@ public class PredicateAndConsumerExample {
         if(biPredicate.test(student.getGradeLevel(), student.getGpa())) {
             biConsumer.accept(student.getName(), student.getActivities());
         }
-        /*
 
-        */
     };
 
     static void printNameAndActivities() {
@@ -38,11 +36,13 @@ public class PredicateAndConsumerExample {
     public static void main(String[] args) {
         printNameAndActivities();
 
-        /*
-        Student student = null;
-        if(p1.and(p2).test(student)) {
-            biConsumer.accept(student.getName(), student.getActivities());
+        Student student = StudentDataBase.studentSupplier.get();
+        if(student!=null) {
+            if(p1.and(p2).test(student)) {
+        		biConsumer.accept(student.getName(), student.getActivities());
+        		}
         }
-        */
+
+        
     }
 }

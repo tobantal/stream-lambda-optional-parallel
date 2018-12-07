@@ -9,13 +9,17 @@ import java.util.stream.Collectors;
 
 public class StreamsComparatorExample {
 
-    //private static Comparator<Student> studentComparator = (a,b)-> a.getName().compareTo(b.getName());
     private static Comparator<Student> studentComparator = Comparator.comparing(Student::getName);
 
     public static List<Student> sortStudentsByName() {
         return StudentDataBase.getAllStudents().stream()
+        		.sorted(studentComparator)
+                .collect(Collectors.toList());
+    }
+    
+    public static List<Student> sortStudentsByGpa() {
+        return StudentDataBase.getAllStudents().stream()
                 .sorted(Comparator.comparing(Student::getGpa).reversed())
-                //.sorted(studentComparator)
                 .collect(Collectors.toList());
     }
 

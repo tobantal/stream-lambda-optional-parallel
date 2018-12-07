@@ -10,13 +10,11 @@ import java.util.Optional;
 public class OptionalExample {
 
     public static String getStudentName(){
-
-        //Student student = StudentDataBase.studentSupplier.get();
-        Student student = null;
-        if(student!=null){
-            return student.getName();
+        Student student = StudentDataBase.studentSupplier.get();
+        //Student student = null;
+        if(student!=null) {
+            return student!=null ? student.getName() : null;
         }
-
         return null;
     }
 

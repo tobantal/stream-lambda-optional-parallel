@@ -5,7 +5,6 @@ import com.da.data.Student;
 
 import java.util.Optional;
 
-import static java.util.Optional.ofNullable;
 
 public class OptionalOrElseExample {
 

@@ -7,7 +7,7 @@ public class LambdaVariable1 {
     static int staticValue = 5;
 
     public static void main(String[] args) {
-        int k = 0;
+    	
         Consumer<Integer> c1 = (i)-> System.out.printf("Value is : %d\n", i);
 
         int value = 4; //local variable
