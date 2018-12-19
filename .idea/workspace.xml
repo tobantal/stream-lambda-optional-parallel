@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/da/lambdas/ComparatorLambda.java" line="12" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a265589-bb70-451e-9a12-f954098ca50e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/dates/ComparingTimesDurationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/da/dates/InstantExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4a265589-bb70-451e-9a12-f954098ca50e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -55,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/ComparingTimesDurationExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +62,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/InstantExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="357">
+              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,7 +154,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="209" />
     <option name="y" value="151" />
     <option name="width" value="1433" />
@@ -220,7 +219,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544149233355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544149297476" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -345,12 +344,12 @@
       <workItem from="1543971364131" duration="615000" />
       <workItem from="1543997340618" duration="6205000" />
       <workItem from="1544060363923" duration="4479000" />
-      <workItem from="1544147065112" duration="2065000" />
+      <workItem from="1544147065112" duration="2730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87828000" />
+    <option name="totallyTimeSpent" value="88493000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -362,7 +361,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="183" y="132" width="1433" height="790" extended-state="0" />
+    <frame x="209" y="151" width="1433" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28186452" />
@@ -374,7 +373,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.2754591" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36377475" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36377475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3973799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -907,7 +906,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/ComparingTimesDurationExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -923,8 +922,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/da/dates/InstantExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
